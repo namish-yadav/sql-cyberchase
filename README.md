@@ -45,7 +45,6 @@ sql-cyberchase/
 
 - SQL
 - SQLite
-- CS50 SQL
 
 ## Running the Queries
 
